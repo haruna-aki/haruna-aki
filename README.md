@@ -1,16 +1,16 @@
-<br clear="both">
+
 
 <h1 align="center">Heyy 👾</h1>
 
 ###
 
-<br clear="both">
+
 
 <h3 align="left">💻 TECH STACK</h3>
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="33" alt="c logo"  />
@@ -52,25 +52,25 @@
 
 ###
 
-<br clear="both">
+
 
 <h3 align="left">👨‍💻 ABOUT ME</h3>
 
 ###
 
-<br clear="both">
+
 
 <p align="left">My name's Yngwie Punsalan, a college student focusing on Web Development aspiring to be a Full-Stack Developer.<br><br>For more info, visit my portfolio: https://yngwiej-punsalan.vercel.app/</p>
 
 ###
 
-<br clear="both">
+
 
 <h3 align="left">📡 CONNECTIONS</h3>
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <a href="https://facebook.com/yngwiejohanne.punsalan.9" target="_blank">
@@ -89,13 +89,13 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/haruna-aki/haruna-aki/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
