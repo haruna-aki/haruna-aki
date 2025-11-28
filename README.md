@@ -4,17 +4,21 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
+###
+
 <br clear="both">
 
 <h1 align="center">Heyy 👾</h1>
 
 ###
 
-<img align="right" height="175" src="https://i.imgflip.com/21hqcc.jpg"  />
+<br clear="both">
+
+<h3 align="left">💻 TECH STACK</h3>
 
 ###
 
-<h2 align="left">💻 TECH STACK</h2>
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="33" alt="c logo"  />
@@ -46,7 +50,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="175" src="https://i.imgflip.com/21hqcc.jpg"  />
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haruna-aki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -56,7 +62,9 @@
 
 <br clear="both">
 
-<h2 align="left">👨‍💻 ABOUT ME</h2>
+<h3 align="left">👨‍💻 ABOUT ME</h3>
+
+###
 
 <br clear="both">
 
@@ -66,7 +74,9 @@
 
 <br clear="both">
 
-<h2 align="left">📡 CONNECTIONS</h2>
+<h3 align="left">📡 CONNECTIONS</h3>
+
+###
 
 <br clear="both">
 
@@ -98,3 +108,5 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+
+###
