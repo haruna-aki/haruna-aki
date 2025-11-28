@@ -1,8 +1,8 @@
+<br clear="both">
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -15,8 +15,6 @@
 ###
 
 <h2 align="left">💻 TECH STACK</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="33" alt="c logo"  />
@@ -60,8 +58,6 @@
 
 <h2 align="left">👨‍💻 ABOUT ME</h2>
 
-###
-
 <br clear="both">
 
 <p align="left">My name's Yngwie Punsalan, a college student focusing on Web Development aspiring to be a Full-Stack Developer.<br><br>For more info, visit my portfolio: https://yngwiej-punsalan.vercel.app/</p>
@@ -71,8 +67,6 @@
 <br clear="both">
 
 <h2 align="left">📡 CONNECTIONS</h2>
-
-###
 
 <br clear="both">
 
@@ -99,8 +93,8 @@
 
 ###
 
+<br clear="both">
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
